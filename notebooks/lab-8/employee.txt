@@ -1,0 +1,6 @@
+psarin	poohbear	0	CS	Instructor
+poohbear	sahami	500	CS	Lecturer
+tigger	poohbear	100	CS	Tiger
+htiek	sahami	500	CS	Lecturer
+sahami	mtl	5000	CS	Professor
+guido	guido	50000	PSF	BDFL
